@@ -9,9 +9,9 @@ Tranquil will be developed in different stages, starting with the most basic and
 
 Each step of the development cycle will be logged and properly tested. Automated testing libraries will be used to continuously test all the elements of the app to ensure that no additional feature causes the entire app to fail.
 
-Trello Will Be Used as the only tool to manage Development Progress, Bugs and Features. Find Tranquil's official Trello workspace below:
+Github Projects Will Be Used as the only tool to manage Development Progress, Bugs and Features. Find Tranquil's official Trello workspace below:
 
-![Trello Link](https://img.shields.io/static/v1?label=Trello%20WorkSpace&message=JOIN&color=blue&style=for-the-badge&logo=trello&link=https://trello.com/tranquil12)
+![GHP Link](https://img.shields.io/static/v1?label=Github%20Projects&message=SEE%20BOARDS&color=blue&style=for-the-badge&logo=github&link=https://trello.com/tranquil12)
 <br>
 <br>
 ## Our Team
