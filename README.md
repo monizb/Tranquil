@@ -18,7 +18,7 @@ Trello Will Be Used as the only tool to manage Development Progress, Bugs and Fe
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/monizb"><img src="https://avatars.githubusercontent.com/u/46259712?v=4" width="100px;" alt=""/><br /><sub><b>Prateek Shetty</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/monizb"><img src="https://avatars.githubusercontent.com/u/46259712?v=4" width="100px;" alt=""/><br /><sub><b>Monish Basaniwal</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/gosLp"><img src="https://avatars.githubusercontent.com/u/68729469?v=4" width="100px;" alt=""/><br /><sub><b>Prateek Shetty</b></sub></a><br /></td>
     
   </tr>
