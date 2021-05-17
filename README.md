@@ -14,6 +14,16 @@ Github Projects Will Be Used as the only tool to manage Development Progress, Bu
 ![GHP Link](https://img.shields.io/static/v1?label=Github%20Projects&message=SEE%20BOARDS&color=blue&style=for-the-badge&logo=github&link=https://trello.com/tranquil12)
 <br>
 <br>
+## Tech Stack
+![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=green&style=for-the-badge&logo=npm)
+![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=blue&style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=green&style=for-the-badge&logo=mongodb)
+![ExpressJS](https://img.shields.io/static/v1?label=&message=ExpressJS&color=ff69b4&style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=orange&style=for-the-badge&logo=firebase)
+![CraftJS](https://img.shields.io/static/v1?label=&message=CraftJS&color=black&style=for-the-badge&logo=craftjs)
+
+
+
 ## Our Team
 <!-- markdownlint-disable -->
 <table>
