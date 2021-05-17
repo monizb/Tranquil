@@ -1,4 +1,4 @@
-![Untitled design (17)](https://user-images.githubusercontent.com/46259712/118404026-de880700-b68e-11eb-80dc-eb03abdcac20.png)
+![Untitled design (2)](https://user-images.githubusercontent.com/46259712/118441301-9efd0180-b706-11eb-9866-e0725ac7d7b1.gif)
 
 ## About
 Tranquil is a web app aimed to help you document your side-projects, hackathon projects or full scale business products with ease and make your life "Tranquil". Although not yet in development, this app will feature an easy drag and drop documentation builder which does not require you to put in a lot of effort in the documentation part, which is usually a pain point for many of us and which is usually ignored leading to a mediocre user experience.
